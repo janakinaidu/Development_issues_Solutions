@@ -1,4 +1,4 @@
-# Development_issues_Solutions
+# Development_issues_Solutions By Janakinaidu
 This is a git branch where we can find proper solutions for issues that we are facing in Dev actitivities
 
 **Q1** How to Kill 8080 process to get rid of following issue?
